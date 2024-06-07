@@ -1,4 +1,4 @@
-# ASUS-B460i-OpenCore1.0
+# ASUS ROG-STRIX-B460-I-GAMING-OpenCore1.0
 Main board:ASUS ROG B460I GAMING
 iGPU:i5-10600k  
 Video Card:rx560  
