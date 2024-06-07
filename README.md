@@ -1,5 +1,5 @@
 # ASUS-B460i-OpenCore1.0
-Main board:Asus B460i itx  
+Main board:ASUS ROG B460I GAMING
 iGPU:i5-10600k  
 Video Card:rx560  
 Memory:16GB  
