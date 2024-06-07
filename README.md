@@ -8,3 +8,5 @@ Bluetooth：ax210
 
 Perfect  
 Test in Ventura!  
+
+You have to update MLB,SystemSerialNumber and SystemUUID
